@@ -1,5 +1,7 @@
 # Revenue-Insights-in-Hospitality-Domain
 
+**Link to my Dashboard**
+
 🔷 Power Bi Service - https://app.powerbi.com/view?r=eyJrIjoiNGY1ODA3ZDYtMjNiOS00Y2RjLTk0NDYtOTc4NjM1ZGY4YjNjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 # **Problem statement**
